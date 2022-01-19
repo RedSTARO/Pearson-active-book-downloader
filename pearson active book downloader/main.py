@@ -17,7 +17,7 @@ print('Welcome to use this tool,this tool can help you download pearson active b
       'Then,after deal,you should input link like this "https://resources.pearsonactivelearn.com/r00/r0090/r009023/r00902341/current/OPS/images/9781292244778"\n'
       'Easily understand,isn\'t ?\n'
       'Now  enjoy this tool!\n'
-      '(This tool writen by RedSTAR.This tool will open source in Github.)\n' )
+      '(This tool writen by RedSTAR.This tool was open source in Github,link is https://github.com/RedSTARO/Pearson-active-book-downloader .)\n' )
 
 def new_name(title):
     # '/ \ : * ? " < > |'
